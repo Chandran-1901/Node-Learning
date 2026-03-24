@@ -36,6 +36,12 @@ Node.js allows you to run JavaScript outside the browser and build backend appli
 nvm install 18
 nvm use 18
 
+---
+
+## 📖 Introduction
+Node.js allows you to run JavaScript outside the browser and build backend applications.
+
+---
 ## Verify Installation
 node -v
 npm -v
